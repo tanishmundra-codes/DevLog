@@ -1,0 +1,26 @@
+{
+  "name": "tanish.dev",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000a\u0000n\u0000i\u0000s\u0000h\u0000.\u0000d\u0000e\u0000v\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/tanishmundra-codes/Tanish.dev#readme",
+  "bugs": {
+    "url": "https://github.com/tanishmundra-codes/Tanish.dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishmundra-codes/Tanish.dev.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
